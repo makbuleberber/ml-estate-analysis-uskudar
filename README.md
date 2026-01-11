@@ -39,13 +39,6 @@ Several classification algorithms were tested and compared. Among them, **Logist
 
 Other models were evaluated for comparison, but Logistic Regression demonstrated the most consistent and reliable performance on the dataset.
 
-## 📁 Repository Structure
-.
-├── notebook/
-│   └── YapayZeka(Üsküdar).ipynb
-│
-├── README.md               # Proje açıklaması
-
 ## 🚀 Key Takeaways
 - Real-world real estate data can be effectively modeled using classical machine learning techniques.
 - Proper data preprocessing and feature selection significantly impact model performance.
