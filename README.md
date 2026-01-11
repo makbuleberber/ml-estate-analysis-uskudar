@@ -41,7 +41,7 @@ Other models were evaluated for comparison, but Logistic Regression demonstrated
 
 ## 📁 Repository Structure
 .
-├── notebooks/
+├── notebook/
 │   └── YapayZeka(Üsküdar).ipynb
 │
 ├── README.md               # Proje açıklaması
